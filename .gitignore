@@ -1,0 +1,19 @@
+# Configuration pour Eclipse
+.project
+.settings
+.classpath
+
+# Configuration Gradle
+/.gradle/
+build
+
+# Configuration de IDEA InteliJ
+/.idea/
+*.iml
+*.iws
+*.ipr
+atlassian-ide-plugin.xml
+
+# Misc
+*.log
+*~
