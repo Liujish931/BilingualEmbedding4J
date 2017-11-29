@@ -1,5 +1,5 @@
 <p align="center">
-  | <b><a href="#hello!bonjour!你好!">Introduction</a></b>
+  | <b><a href="#introduction">Introduction</a></b>
   | <b><a href="#Installation">Installation</a></b>
   | <b><a href="#Usagecode">Usage</a></b>
   | <b><a href="#English, French and Chinese">Support</a></b> |
@@ -7,7 +7,9 @@
 
 ---
 
-# Hello!Bonjour!你好!
+# Introduction
+
+Hello!Bonjour!你好!
 
 # Installation
 
